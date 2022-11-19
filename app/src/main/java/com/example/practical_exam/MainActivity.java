@@ -12,5 +12,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         getSupportActionBar().setTitle("HERMOGENES_GERARDJEFFERSON_D");
+
     }
+
+
+
 }
